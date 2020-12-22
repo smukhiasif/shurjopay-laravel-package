@@ -2,9 +2,7 @@
 
 ### Authorization of the contributor ##
 *	shurjoPay v 1.00 API
-*	@authore: abdullah md. ayman
 *	@date: 31 May 2020
-*	@email: abdullahwasim42@gmail.com
 
 * Summary of set up
 
